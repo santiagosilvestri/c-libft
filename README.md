@@ -67,12 +67,6 @@ make fclean # Removes object files and libft.a
 make re     # Rebuilds the library from scratch
 ```
 
-If bonus functions are included, they can be compiled with:
-
-```bash
-make bonus
-```
-
 ---
 
 ## Library Overview
