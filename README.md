@@ -336,10 +336,4 @@ All source code must be written, reviewed, tested, and understood by the student
 
 ## Author
 
-Created by:
-
-```bash
-sasilves
-```
-
-42 Madrid.
+**Santiago Silvestri** - `sasilves`
